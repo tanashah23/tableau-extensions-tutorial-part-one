@@ -1,0 +1,14 @@
+{
+  "name": "tableau_first_extension",
+  "version": "1.0.0",
+  "description": "\"Running this command as per the tutorial blog and this is my first tableau extension project\"",
+  "main": "\"main filename will be here\"",
+  "repository": "\"I will update this later as well\"",
+  "author": "\"Tanay Shah\"",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "jquery": "^3.7.1"
+  }
+}
